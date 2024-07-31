@@ -1,9 +1,9 @@
 {
-  "name": "helioslauncher",
+  "name": "FalloutRPlauncher",
   "version": "2.2.1",
-  "productName": "Helios Launcher",
+  "productName": "FalloutRP Launcher",
   "description": "Modded Minecraft Launcher",
-  "author": "Daniel Scalzi (https://github.com/dscalzi/)",
+  "author": "Daniel Scalzi, filflo (https://github.com/dscalzi/)",
   "license": "UNLICENSED",
   "homepage": "https://github.com/dscalzi/HeliosLauncher",
   "bugs": {
