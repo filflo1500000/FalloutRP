@@ -1,4 +1,4 @@
-appId: 'helioslauncher'
+appId: 'falloutrp'
 productName: 'Helios Launcher'
 artifactName: '${productName}-setup-${version}.${ext}'
 

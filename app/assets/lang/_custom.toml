@@ -1,13 +1,13 @@
 # Custom Language File for Launcher Customizer
 
 [ejs.app]
-title = "FalloutRP Launcher"
+title = "Fallout RP"
 
 [ejs.landing]
-mediaGitHubURL = "https://github.com/filflo1500000/FalloutRP"
-mediaTwitterURL = "https://twitch.tv/filflo"
+mediaGitHubURL = "https://github.com/dscalzi/HeliosLauncher"
+mediaTwitterURL = "#"
 mediaInstagramURL = "#"
-mediaYouTubeURL = "https://www.youtube.com/channel/UCN6FqRjwRjYBbHpXdRyESag"
+mediaYouTubeURL = "#"
 mediaDiscordURL = "https://discord.gg/2qBK4AXdPb"
 
 [ejs.settings]
@@ -16,5 +16,5 @@ supportLink = "https://github.com/dscalZi/HeliosLauncher/issues"
 
 [ejs.welcome]
 welcomeHeader = "Bienvenue sur FalloutRP"
-welcomeDescription = "Fallout est une série de jeux vidéo de rôle se déroulant dans un univers post-apocalyptique. Elle a été créée par Interplay Entertainment et est actuellement développée par Bethesda Game Studios et éditée par Bethesda Softworks. La série est connue pour son style unique, mélangeant rétro-futurisme, humour noir et une ambiance de guerre froide des années 1950"
+welcomeDescription = "notre but est de vous faire découvrir l'univers de Fallout à travers ce serveur RolePlay survivez rejoignez une faction ou créer votre petit groupe tout en parcourant les terres désolées de la Louisiane explorée et découvrir ce monde formidable où les expériences de vault tec font encore rage."
 welcomeDescCTA = "Vous n'êtes qu'à quelques clics de FalloutRP."
