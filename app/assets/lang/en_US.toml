@@ -211,9 +211,9 @@ checkConsoleForDetails = "Please check the console (CTRL + Shift + i) for more d
 checking = "Checking for News"
 
 [js.landing.discord]
-loading = "Loading game.."
-joining = "Sailing to Westeros!"
-joined = "Exploring the Realm!"
+loading = "changement du jeu.."
+joining = "parcours les terres désolé"
+joined = "en jeu!"
 
 [js.overlay]
 dismiss = "Dismiss"
